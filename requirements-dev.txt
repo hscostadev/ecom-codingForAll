@@ -1,0 +1,8 @@
+-i https://pypi.org/simple
+pyclean==2.7.0
+asgiref==3.6.0 ; python_version >= '3.7'
+django==4.1.2
+django-jazzmin==2.6.0
+pillow==9.4.0
+python-decouple==3.8
+sqlparse==0.4.3 ; python_version >= '3.5'
